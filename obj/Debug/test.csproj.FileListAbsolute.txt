@@ -1,0 +1,15 @@
+D:\winform\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\winform\test\obj\Debug\test.Form1.resources
+D:\winform\test\obj\Debug\test.Properties.Resources.resources
+D:\winform\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\winform\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\winform\test\obj\Debug\test.ShapeButton.resources
+D:\winform\test\bin\Debug\色块游戏三合一.exe.config
+D:\winform\test\bin\Debug\色块游戏三合一.exe.manifest
+D:\winform\test\bin\Debug\色块游戏三合一.application
+D:\winform\test\bin\Debug\色块游戏三合一.exe
+D:\winform\test\bin\Debug\色块游戏三合一.pdb
+D:\winform\test\obj\Debug\色块游戏三合一.exe.manifest
+D:\winform\test\obj\Debug\色块游戏三合一.application
+D:\winform\test\obj\Debug\色块游戏三合一.exe
+D:\winform\test\obj\Debug\色块游戏三合一.pdb
